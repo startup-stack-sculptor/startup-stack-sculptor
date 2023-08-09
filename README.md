@@ -4,6 +4,8 @@
 🌱 Passionate about startups, technology, and creative problem-solving
 🎨 Turning ideas into digital realities through code and innovation
 
+💡 An enthusiastic problem solver, eager to contribute my expertise to early-stage startups, empowering them to thrive in the digital landscape. Committed to fostering growth, collaborating with teams, and creating technological foundations that transform visions into reality. Let's build something amazing together! 💡
+
 ## 🛠️ Technologies & Tools
 
 ![Tech Stack](https://img.shields.io/badge/Tech%20Stack-HTML%20|%20CSS%20|%20JavaScript%20|%20React%20|%20Node.js%20|%20Express%20|%20Python%20|%20MySQL%20|%20...-blue)
