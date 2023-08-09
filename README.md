@@ -10,11 +10,11 @@
 
 ## 🏆 Projects
 
-### [Project Name 1](link-to-repo)
-Description of the project and its significance.
+### [E-commerce Store App](link-to-repo)
+Created a full-stack e-commerce application using MERN stack (MongoDB, Express.js, React.js, Node.js). Features include user authentication, product catalog, shopping cart, and payment integration with PayPal. Responsive design ensures a seamless shopping experience on all devices.
 
-### [Project Name 2](link-to-repo)
-Brief overview of the second project and its impact.
+### [ClimateChange Dashboard](link-to-repo)
+Built a data visualization dashboard using Python (Flask) and D3.js to raise awareness about climate change. The dashboard aggregates and presents environmental data, such as temperature trends and carbon emissions, in an interactive and informative way.
 
 ## 🌐 Connect with Me
 
