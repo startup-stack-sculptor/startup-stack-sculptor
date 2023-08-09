@@ -18,14 +18,14 @@ Brief overview of the second project and its impact.
 
 ## 🌐 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/yourusername/)
-[Twitter](https://twitter.com/yourusername/)
-[Personal Website](https://www.yourwebsite.com)
+[LinkedIn](https://www.linkedin.com/in/bmishra19/)
+[Twitter](https://twitter.com/bhuban2dev/)
+[Personal Website](https://www.bhuban.tech)
 
 ## 📚 Learning and Sharing
 
-I'm dedicated to continuous learning and enjoy sharing my knowledge through [blog posts](https://www.yourblog.com) and [open-source contributions](https://github.com/yourusername).
+I'm dedicated to continuous learning and enjoy sharing my knowledge through [blog posts](https://www.bhuban.tech) and [open-source contributions](https://github.com/4mishra).
 
 ## 🤝 Let's Collaborate
 
-I'm always excited about collaborating on new projects and ideas. Feel free to reach out to me at [youremail@example.com](mailto:youremail@example.com).
+I'm always excited about collaborating on new projects and ideas. Feel free to reach out to me at [bhubanandm@gmail.com](mailto:bhubanandm@gmail.com).
