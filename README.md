@@ -4,10 +4,10 @@ Welcome to my GitHub! I'm a passionate and driven developer constantly diving in
 
 ## 🌟 About Me
 
-- 🔧 Iâm currently honing my **full-stack development** skills, focusing on building robust web and mobile applications.
+- 🔧 I'm currently honing my **full-stack development** skills, focusing on building robust web and mobile applications.
 - 🚀 I'm actively contributing to **open-source projects** and engaging with the developer community.
-- 💬 Ask me about **Dart**, **Flutter**, **Firebase****Node.js**, and **software architecture**.
-- 📩 Reach out via [Email](mailo:tmishrabhuban4@gmail.com).
+- 💬 Ask me about **Dart**, **Flutter**, **Firebase**, **Node.js**, and **software architecture**.
+- 📩 Reach out via [Email](mailto:mishrabhuban4@gmail.com).
 - 🏞️ Fun Fact love hiking through nature on weekends.
 
 ## 🛠️ Technologies & Tools
